@@ -28,14 +28,14 @@ https://stream.sunplex.live/SPORTS-LIVE2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="LIVE SPORTS 2" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Bangladeshi",LIVE SPORTS 2
 https://stream.sunplex.live/SPORTS-LIVE1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Star Sports Select 1" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportsselecthd1.png" group-title="Bangladeshi",Star Sports Select 1
-https://stream.sunplex.live/STAR-SPORTS-SELECT/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Ptv Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="Bangladeshi",Ptv Sports
 https://stream2.sunplex.live/PTV-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="T SPORTS HD" tvg-logo="https://appstv.bdixbd.net/images/54797_TSports 21668953490.png" group-title="Bangladeshi",T Sports BD
 https://stream.sunplex.live/T-SPORTStest/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports Select 1" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportsselecthd1.png" group-title="Bangladeshi",Star Sports Select 1
+https://stream.sunplex.live/STAR-SPORTS-SELECT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star 4k" tvg-logo="https://dreamdth.com/community/data/avatars/m/25/25245.jpg?1754162162" group-title="Bangladeshi",Star 4k
 https://stream.sunplex.live/STAR-4K/tracks-v1a1/mono.m3u8
