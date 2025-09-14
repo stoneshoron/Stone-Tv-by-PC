@@ -213,16 +213,19 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Entertainment",SONY AATH 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Entertainment",Zee Bangla Cinema 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Entertainment",COLORS BANGLA 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Entertainment",Zee Bangla Cinema 📡 (ENTERTAINMENT)
+https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 
-
-#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Hindi Entertainment", Sony SAB HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
