@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Live Sports" tvg-logo="https://assets-prod.services.toffeelive.com/w_128,q_75,f_webp/OHjtBJkBcqxnFHJBUu4B/posters/b297b008-8550-4151-b209-947b454bf6f3.png" group-title="Bangladeshi",Asia Cup
+http://103.73.107.122:3255/TSportsHD/index.m3u8
+
 #EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/stream/logo/maasranga-tv.jpg" group-title="Bangladeshi",MAASRANGA TV HD
 https://stream.sunplex.live/MAASRANGA-TVtest/tracks-v1a1/mono.m3u8
 
