@@ -170,16 +170,21 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.criclivestv.com/wp-content/uploads/2025/07/Jalsha-Movies-HD.jpg" group-title="Indian Bangla", Jalsha Movie HD
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.criclivestv.com/wp-content/uploads/2025/07/Jalsha-Movies-HD.jpg" group-title="Indian Bangla", Jalsha Movie
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla HD(h)
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/stream_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JfTTqck/channels4-profile.jpg" group-title="Indian Bangla", Star Jalsha HD
 https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha
-https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8
 
 
 
@@ -191,7 +196,7 @@ http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", Zee Bangla HD(h)
-http://kst.moonplex.net:8080/CH4/index.m3u8
+https://mini.allinonereborn.online/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8&token=JITENDRA_KUMAR&e.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELyb5Ve3GlpgkHp8i4eOQyEY7QyZVBLpsew&s" group-title="  group-title="Indian Bangla",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
