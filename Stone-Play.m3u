@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Live Sports" tvg-logo="https://assets-prod.services.toffeelive.com/w_128,q_75,f_webp/OHjtBJkBcqxnFHJBUu4B/posters/b297b008-8550-4151-b209-947b454bf6f3.png" group-title="Bangladeshi",Asia Cup
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1760464508&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=d5c74b059cd7d7f0702750fa75413b93
+https://bd-mc-fdlive.fancode.com/mumbai/136883_english_hls_92ccb5a6ba85580ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/stream/logo/maasranga-tv.jpg" group-title="Bangladeshi",MAASRANGA TV HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
