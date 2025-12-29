@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Live Sports" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/d60Vs5UBrjBfS2_RV_YV/posters/3cc5bf1e-5a42-415c-8e0e-7a17a1bb64da.png" group-title="Bangladeshi",Asia Cup
-https://premierleagpl23.akamaized.net/hls/live/2107108/2025Seriea-1.2/master.m3u8
+https://bd-mc-fdlive.fancode.com/mumbai/138921_english_hls_d69a6a330972121_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/stream/logo/maasranga-tv.jpg" group-title="Bangladeshi",MAASRANGA TV HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
