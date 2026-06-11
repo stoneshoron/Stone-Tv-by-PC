@@ -152,7 +152,7 @@ https://tvsen6.aynaott.com/etv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="Bangladeshi", Bangla Tv HD
 https://tvsen6.aynaott.com/banglatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/10.png" group-title=" group-title="Bangladeshi",Duronto TV
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" group-title=" group-title="Bangladeshi",Duronto TV
 https://stream2.sunplex.live/Duronto-TV/index.m3u8
 
 
