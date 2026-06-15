@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-name="Live Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Bangladeshi",FIFA 2026
 http://198.195.239.50:8095/tsports/index.m3u8
 
+#EXTINF:-1 tvg-name="Live Sports" tvg-logo="https://storage.googleapis.com/prod-tof-public-data/toffee/client/fifa-logo.svg" group-title="Bangladeshi",FIFA 2026
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/stream/logo/maasranga-tv.jpg" group-title="Bangladeshi",MAASRANGA TV HD
 https://stream.sunplex.live/MAASRANGA-TVtest/index.m3u8
