@@ -26,7 +26,7 @@ https://stream.sunplex.live/Ekhon-TV/tracks-v1a1/mono.m3u8
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="Bangladeshi",Channel 1 HD
-https://akash.sm-monirul.top/channel_1.m3u8
+https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="T SPORTS HD" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Bangladeshi",LIVE SPORTS HD
 https://stream.sunplex.live/SPORTS-LIVE2/tracks-v1a1/mono.m3u8
