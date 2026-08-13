@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Live Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Bangladeshi",FIFA 2026
-http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTxpr24R/1000114119.jpg" group-title="SM All TV",G-Series
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Live Sports" tvg-logo="https://storage.googleapis.com/prod-tof-public-data/toffee/client/fifa-logo.svg" group-title="Bangladeshi",FIFA 2026
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -49,6 +49,8 @@ https://stream.sunplex.live/STAR-4K/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="DEPTO BANGLA HD" tvg-logo="https://sunplex.net/stream/logo/depto-tv.jpg" group-title="Bangladeshi",DEPTO BANGLA HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=4111540?stime=20240420134645&etime=20240420135645&encoded=089e4b209fd93269258bf
 
+#EXTINF:-1 tvg-id="141000" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="SM All TV",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="https://sunplex.net/stream/logo/channel-24.jpg" group-title="Bangladeshi",CHANNEL 24
 https://stream2.sunplex.live/Channel-24/index.m3u8#uvp16
