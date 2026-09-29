@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTxpr24R/1000114119.jpg" group-title="SM All TV",G-Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" group-title=" group-title="Bangladeshi",Duronto TV
+https://stream2.sunplex.live/Duronto-TV/index.m3u8
+
 #EXTINF:-1 tvg-name="Live Sports" tvg-logo="https://storage.googleapis.com/prod-tof-public-data/toffee/client/fifa-logo.svg" group-title="Bangladeshi",FIFA 2026
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
@@ -23,7 +26,7 @@ https://stream.sunplex.live/Jamuna-TV/tracks-v1a1/mono.m3u8
 https://stream.sunplex.live/Ekhon-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg" group-title="Bangladeshi",Ekhon TV HD
-https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="Bangladeshi",Channel 1 HD
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
@@ -68,7 +71,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="Bangladeshi", Ekattor TV HD
-http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjKGfnW8/20250704_201040.png" group-title="Bangladeshi", Gazi TV HD 
 https://stream.sunplex.live/GAZI-TVtest/tracks-v1a1/mono.m3u8
@@ -92,10 +95,10 @@ https://akash.sm-monirul.top/somoy_tv.m3u8
 https://stream.sunplex.live/SOMOY-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="Bangladeshi", Banglavision HD
-https://akash.sm-monirul.top/bangla_vision.m3u8
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="Bangladeshi", Desh Tv HD
-https://akash.sm-monirul.top/desh_tv.m3u8
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="Bangladeshi", Nagorik Tv
 https://stream.sunplex.live/NAGORIK-TVtest/tracks-v1a1/mono.m3u8
@@ -118,51 +121,48 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="",Asian TV
-https://tvsen6.aynaott.com/asiantv/index.m3u8
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="Bangladeshi", Bijoy TV
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x49520" group-title=" group-title="Bangladeshi", My TV
-https://tvsen6.aynaott.com/mytv/index.m3u8
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
 
 
 #EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://boishakhionline.com/templates/web-view/images/BOISHAKHI-ONLINE-LOGO2.png" group-title="Bangladeshi",Boishakhi TV
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png" group-title="Bangladeshi", Mohona TV HD
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="Bangladeshi", Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png" group-title=" group-title="Bangladeshi", Global TV HD
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc3dBTFlp6XVDNECQFzzP8r0x3f-iidkkBJac6gKarUtRoc5rFZxM3AxDW&s=10" group-title="Bangladeshi", SATV HD
-https://tvsen6.aynaott.com/satv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc3dBTFlp6XVDNECQFzzP8r0x3f-iidkkBJac6gKarUtRoc5rFZxM3AxDW&s=10" group-title="Bangladeshi", SA TV HD
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-TnRKrBcAn3Wg_TNuIbRILQQk5_jlS577w&s" group-title=" group-title="Bangladeshi",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 tvg-name="EKUSHEY TV" tvg-logo="https://sunplex.net/stream/logo/ekushey-tv.jpg" group-title="Bangladeshi",EKUSHEY TV
-https://tvsen6.aynaott.com/etv/index.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="Bangladeshi", Bangla Tv HD
-https://tvsen6.aynaott.com/banglatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" group-title=" group-title="Bangladeshi",Duronto TV
-https://stream2.sunplex.live/Duronto-TV/index.m3u8
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b3564688d9964a0da7cee6174fda39ef" group-title="Indian Bangla", Star News HD
-https://akash.sm-monirul.top/star_news.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="Indian Bangla", Nexus Tv
-https://tvsen6.aynaott.com/nexustv/index.m3u8
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/600/61/sticker-png-disney-channel-old-logo.png" group-title="Indian Bangla", Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/playlist.m3u8
